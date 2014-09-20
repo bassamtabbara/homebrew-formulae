@@ -20,8 +20,8 @@ end
 
 class PrlUtils < Formula
 
-  homepage 'https://github.com/rickard-von-essen/prl-utils'
-  head "https://github.com/rickard-von-essen/prl-utils", :using => :git, :branch => "master"
+  homepage 'https://github.com/bassamtabbara/prl-utils'
+  head "https://github.com/bassamtabbara/prl-utils", :using => :git, :branch => "master"
 
   depends_on PrlVirtualizationSDK9
 
